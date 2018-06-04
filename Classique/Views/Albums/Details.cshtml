@@ -1,0 +1,115 @@
+﻿@model Classique.Models.Album
+
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Album</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Titre_Album)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Titre_Album)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Année_Album)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Année_Album)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Pochette)
+            </dt>
+    
+            <dd>
+                @Html.Image(Model.Pochette)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ASIN)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ASIN)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Editeur.Nom_Editeur)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Editeur.Nom_Editeur)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Genre.Libellé_Abrégé)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Genre.Libellé_Abrégé)
+            </dd>
+    
+        </dl>
+    </div>
+    <div>
+        <table class="table" id="table">
+            <tr>
+                <th>
+                    Titre
+                </th>
+                <th>
+                    Durée
+                </th>
+                <th>
+                    Prix
+                </th>
+                <th>
+
+                </th>
+                <th>
+
+                </th>
+
+            </tr>
+            @foreach (var item in ViewBag.Enregistrements)
+            {
+                <tr>
+                    <td>
+                        @item.Titre
+                    </td>
+                    <td>
+                        @item.Durée
+                    </td>
+                    <td>
+                        @item.Prix
+                    </td>
+                    <td>
+                        @Html.ActionLink("Extraits", "../Enregistrements/Details", new { id = item.Code_Morceau })
+                    </td>
+                    <td>
+                        @Html.ActionLink("Acheter", "../panier/Addtopanier", new { id = item.Code_Morceau, url = HttpContext.Current.Request.Url.AbsolutePath })                        
+                    </td>
+                </tr>
+            }
+        </table>
+
+    </div>
+    <p>
+    </p>
+</body>
+</html>

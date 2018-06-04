@@ -1,0 +1,82 @@
+﻿@model PagedList.IPagedList<Classique.Models.Album>
+
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Albums";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>Albums</h2>
+
+    @using (Html.BeginForm("Index", "Albums", FormMethod.Get))
+    {
+        <p class="search">
+            Search: @Html.TextBox("searchString", ViewBag.CurrentFilter as string)
+            <input type="submit" value="Search" />
+        </p>
+    }
+    <table class="table">
+        <tr>
+            <th>
+                @Html.ActionLink("Title", "Index", new { sortOrder = ViewBag.TitleSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Year", "Index", new { sortOrder = ViewBag.YearSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                Pochette
+            </th>
+            <th>
+                ASIN
+            </th>
+            <th>
+                Editeur
+            </th>
+            <th>
+                Genre
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titre_Album)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Année_Album)
+            </td>
+            <td>
+                @Html.Image(item.Pochette)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ASIN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Editeur.Nom_Editeur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre.Libellé_Abrégé)
+            </td>
+            <td>
+                @Html.ActionLink("infos", "Details", new { id=item.Code_Album }) 
+            </td>
+        </tr>
+    }
+    
+    </table>
+    <br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</body>
+</html>

@@ -1,0 +1,74 @@
+﻿@model PagedList.IPagedList<Classique.Models.Enregistrement>
+
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Enregistrements</h2>
+
+@using (Html.BeginForm("Index", "Enregistrements", FormMethod.Get))
+{
+    <p class="search">
+        Search: @Html.TextBox("searchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            Titre
+        </th>
+        <th>
+            Durée
+        </th>
+        <th>
+            Durée_Seconde
+        </th>
+        <th>
+            Prix
+        </th>
+        <th>
+            Extrait
+        </th>
+        <th>
+            Titre de Composition
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Durée)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Durée_Seconde)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prix)
+        </td>
+        <td>
+            @Html.Music(item.Extrait)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Composition.Titre_Composition)
+        </td>
+        <td>
+            @Html.ActionLink("infos", "Details", new { id=item.Code_Morceau }) 
+        </td>
+    </tr>
+}
+
+</table>
+
+<br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

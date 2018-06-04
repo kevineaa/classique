@@ -1,0 +1,40 @@
+﻿@using Classique.Controllers
+
+@{
+    ViewBag.Title = "panier";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Panier</h2>
+
+    @if (Session["panier"] != null)
+    {
+
+        <table class="table-hover" >
+            <tr>
+                <th>Titre</th>
+                <th>Durée</th>
+                <th>Prix</th>
+            </tr>
+
+            @foreach (Item item in (List<Item>)Session["panier"])
+            {
+                <tr>
+                    <td>@item.En.Titre</td>
+                    <td>@item.En.Durée</td>
+                    <td>@item.En.Prix</td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <p>Panier vide</p>
+    }
+    @if (Session["url"] != null)
+    {
+        <a href="@Session["url"]">Continue Shopping</a>
+    }
+    
+
+

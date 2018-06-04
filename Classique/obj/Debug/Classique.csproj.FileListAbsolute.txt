@@ -1,0 +1,624 @@
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Classique.dll.config
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Classique.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Classique.pdb
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Antlr3.Runtime.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\EntityFramework.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Newtonsoft.Json.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Owin.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\PagedList.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\PagedList.Mvc.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Helpers.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Mvc.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Optimization.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Razor.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.WebPages.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\WebGrease.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\PagedList.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\PagedList.Mvc.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Helpers.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Mvc.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Optimization.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.Razor.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.WebPages.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Newtonsoft.Json.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\EntityFramework.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\obj\Debug\Classique.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet web\new\Ramayana01-sitemarchand-45ebebf001fc\Classique\obj\Debug\Classique.pdb
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Classique.dll.config
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Classique.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Classique.pdb
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Antlr3.Runtime.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\EntityFramework.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Newtonsoft.Json.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Owin.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\PagedList.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\PagedList.Mvc.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Helpers.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Mvc.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Optimization.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Razor.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.WebPages.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\WebGrease.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\PagedList.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\PagedList.Mvc.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Helpers.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Mvc.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Optimization.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.Razor.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.WebPages.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Newtonsoft.Json.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\EntityFramework.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\obj\Debug\Classique.dll
+C:\Users\roro33bx\Documents\Gbarssin Rodrigue\programmation web\projet final\Classique\obj\Debug\Classique.pdb
+E:\projet final\Classique\bin\Classique.dll.config
+E:\projet final\Classique\bin\Classique.dll
+E:\projet final\Classique\bin\Classique.pdb
+E:\projet final\Classique\bin\Antlr3.Runtime.dll
+E:\projet final\Classique\bin\EntityFramework.dll
+E:\projet final\Classique\bin\EntityFramework.SqlServer.dll
+E:\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projet final\Classique\bin\Microsoft.Owin.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+E:\projet final\Classique\bin\Newtonsoft.Json.dll
+E:\projet final\Classique\bin\Owin.dll
+E:\projet final\Classique\bin\PagedList.dll
+E:\projet final\Classique\bin\PagedList.Mvc.dll
+E:\projet final\Classique\bin\System.Web.Helpers.dll
+E:\projet final\Classique\bin\System.Web.Mvc.dll
+E:\projet final\Classique\bin\System.Web.Optimization.dll
+E:\projet final\Classique\bin\System.Web.Razor.dll
+E:\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+E:\projet final\Classique\bin\System.Web.WebPages.dll
+E:\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+E:\projet final\Classique\bin\WebGrease.dll
+E:\projet final\Classique\bin\PagedList.xml
+E:\projet final\Classique\bin\PagedList.Mvc.xml
+E:\projet final\Classique\bin\System.Web.Helpers.xml
+E:\projet final\Classique\bin\System.Web.Mvc.xml
+E:\projet final\Classique\bin\System.Web.Optimization.xml
+E:\projet final\Classique\bin\System.Web.Razor.xml
+E:\projet final\Classique\bin\System.Web.WebPages.xml
+E:\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+E:\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+E:\projet final\Classique\bin\Antlr3.Runtime.pdb
+E:\projet final\Classique\bin\Newtonsoft.Json.xml
+E:\projet final\Classique\bin\EntityFramework.xml
+E:\projet final\Classique\bin\EntityFramework.SqlServer.xml
+E:\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projet final\Classique\bin\Microsoft.Owin.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+E:\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+E:\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+E:\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+E:\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+E:\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\projet final\Classique\bin\fr\EntityFramework.resources.dll
+E:\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+E:\projet final\Classique\obj\Debug\Classique.dll
+E:\projet final\Classique\obj\Debug\Classique.pdb
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Classique.dll.config
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Classique.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Classique.pdb
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Antlr3.Runtime.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\EntityFramework.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Newtonsoft.Json.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Owin.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\PagedList.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\PagedList.Mvc.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Helpers.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Mvc.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Optimization.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Razor.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.WebPages.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\WebGrease.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\PagedList.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\PagedList.Mvc.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Helpers.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Mvc.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Optimization.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.Razor.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.WebPages.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Newtonsoft.Json.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\EntityFramework.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\roro33bx\Desktop\projet final\Classique\obj\Debug\Classique.dll
+C:\Users\roro33bx\Desktop\projet final\Classique\obj\Debug\Classique.pdb
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Classique.dll.config
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Classique.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Classique.pdb
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Antlr3.Runtime.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\EntityFramework.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Newtonsoft.Json.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Owin.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\PagedList.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\PagedList.Mvc.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Helpers.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Mvc.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Optimization.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Razor.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.WebPages.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\WebGrease.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\PagedList.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\PagedList.Mvc.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Helpers.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Mvc.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Optimization.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.Razor.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.WebPages.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Newtonsoft.Json.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\EntityFramework.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\roro33bx\Desktop\test\projet final\Classique\obj\Debug\Classique.dll
+C:\Users\roro33bx\Desktop\test\projet final\Classique\obj\Debug\Classique.pdb
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Classique.dll.config
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Classique.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Classique.pdb
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Antlr3.Runtime.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\EntityFramework.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Newtonsoft.Json.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Owin.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\PagedList.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\PagedList.Mvc.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Helpers.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Mvc.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Optimization.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Razor.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.WebPages.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\WebGrease.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\PagedList.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\PagedList.Mvc.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Helpers.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Mvc.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Optimization.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.Razor.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.WebPages.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Newtonsoft.Json.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\EntityFramework.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\obj\Debug\Classique.dll
+C:\Users\roro33bx\Desktop\test2\test\projet final\Classique\obj\Debug\Classique.pdb
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Classique.dll.config
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Classique.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Classique.pdb
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Antlr3.Runtime.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\EntityFramework.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Newtonsoft.Json.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Owin.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\PagedList.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\PagedList.Mvc.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Helpers.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Mvc.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Optimization.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Razor.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.WebPages.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\WebGrease.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\PagedList.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\PagedList.Mvc.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Helpers.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Mvc.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Optimization.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.Razor.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.WebPages.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Newtonsoft.Json.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\EntityFramework.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\obj\Debug\Classique.dll
+C:\Users\roro33bx\Desktop\présentation web\test\projet final\Classique\obj\Debug\Classique.pdb
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Classique.dll.config
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Classique.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Classique.pdb
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Antlr3.Runtime.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\EntityFramework.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\EntityFramework.SqlServer.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Newtonsoft.Json.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Owin.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\PagedList.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\PagedList.Mvc.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Helpers.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Mvc.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Optimization.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Razor.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.WebPages.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.WebPages.Razor.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\WebGrease.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\PagedList.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\PagedList.Mvc.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Helpers.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Mvc.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Optimization.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.Razor.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.WebPages.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\System.Web.WebPages.Razor.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Antlr3.Runtime.pdb
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Newtonsoft.Json.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\EntityFramework.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\EntityFramework.SqlServer.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.Razor.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\EntityFramework.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\obj\Debug\Classique.csprojResolveAssemblyReference.cache
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\obj\Debug\Classique.dll
+C:\Users\kevin-adm\Desktop\cours\S2\web semestre 2\projet_final\projet final\Classique\obj\Debug\Classique.pdb

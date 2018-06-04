@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mon application ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div id="header" class="navbar navbar-inverse navbar-fixed-top" style="background-color:#000000; border:none">
+        <img src="~/images/header.jpg" alt="">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Accueil", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("À propos", "About", "Home")</li>
+                    <li class="dropdown">
+                        <a id="dLabel" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Recherches
+                            <span class="caret"></span>
+                        </a>
+                        <ul id="lien" class="dropdown-menu" aria-labelledby="dLabel">
+                            <li>@Html.ActionLink("Compositeurs", "Index", "Musiciens")</li>
+                            <li>@Html.ActionLink("Albums", "Index", "Albums")</li>
+                            <li>@Html.ActionLink("Enregistrements", "Index", "Enregistrements")</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/Panier/Index"> <img src="~/images/panier.png" alt=""></a>
+                    </li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div id="body" class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+    <footer id="footer">
+    </footer>
+    @Scripts.Render("~/Scripts/app.js")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

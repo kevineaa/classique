@@ -1,0 +1,85 @@
+﻿@model PagedList.IPagedList<Classique.Models.Musicien>
+
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Compositeurs";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <h2>Compositeurs</h2>
+
+    @using (Html.BeginForm("Index", "Musiciens", FormMethod.Get))
+    {
+        <p class="search">
+            Search: @Html.TextBox("searchString", ViewBag.CurrentFilter as string)
+            <input type="submit" value="Search" />
+        </p>
+    }
+    
+    <table class="table">
+        <tr>
+            <th>
+                @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+               @Html.ActionLink("First Name", "Index", new { sortOrder = ViewBag.FirstNameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Birth Date", "Index", new { sortOrder = ViewBag.BirthDateSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Death Date", "Index", new { sortOrder = ViewBag.DeathDateSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                Photo
+            </th>
+            <th>
+                Pays
+            </th>
+            <th></th>
+        </tr>
+
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom_Musicien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prénom_Musicien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Année_Naissance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Année_Mort)
+            </td>
+            <td>
+                @Html.Image(item.Photo);
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pays.Nom_Pays)
+            </td>
+            <td>
+                @Html.ActionLink("infos", "Details", new { id=item.Code_Musicien }) 
+            </td>
+        </tr>
+    }
+    
+    </table>
+    <br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</body>
+</html>

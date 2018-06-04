@@ -1,0 +1,62 @@
+﻿body {
+    padding-top: 50px;
+}
+
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#header {
+    text-align:center;
+}
+
+#body {
+    margin-top:240px;
+}
+#footer {
+   
+   text-align:center;
+   height:85px;
+   color:#000000;
+  
+    
+}
+
+
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.nav li a{
+    color:#ffffff !important;
+}
+.dropdown-menu li a{
+color:#808080 !important;
+}
+.nav li a:hover{
+    color:#ff0000 !important;
+}
+.nav li a:focus{
+    color:#ff0000 !important;
+}
+.nav ul:hover{
+    color:#ff0000!important;
+}
+.navbar-brand{
+    color:#ffffff!important
+}
+.navbar-brand:hover{
+    color:#ff0000!important;
+}
+.search{
+    text-align:right;
+}
