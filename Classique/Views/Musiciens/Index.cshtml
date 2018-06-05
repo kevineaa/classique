@@ -1,4 +1,5 @@
-﻿@model PagedList.IPagedList<Classique.Models.Musicien>
+﻿
+@model PagedList.IPagedList<Classique.Models.Musicien>
 
 @using PagedList.Mvc;
 
@@ -55,13 +56,13 @@
                 @Html.DisplayFor(modelItem => item.Nom_Musicien)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Prénom_Musicien)
+                @Html.DisplayFor(modelItem => item.Prenom_Musicien)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Année_Naissance)
+                @Html.DisplayFor(modelItem => item.Annee_Naissance)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Année_Mort)
+                @Html.DisplayFor(modelItem => item.Annee_Mort)
             </td>
             <td>
                 @Html.Image(item.Photo);

@@ -13,7 +13,7 @@ namespace Classique.Controllers
 {
     public class AlbumsController : Controller
     {
-        private Classique_WebEntities1 db = new Classique_WebEntities1();
+        private Classique_Web_2017Entities db = new Classique_Web_2017Entities();
 
         // GET: Albums
         public ActionResult Index(string searchString, string currentFilter, string sortOrder, int? page)
@@ -48,7 +48,7 @@ namespace Classique.Controllers
                     albums = albums.OrderByDescending(s => s.Titre_Album);
                     break;
                 case "date_desc":
-                    albums = albums.OrderByDescending(s => s.Année_Album);
+                    albums = albums.OrderByDescending(s => s.Annee_Album);
                     break;
                 default:
                     albums = albums.OrderBy(s => s.Titre_Album);

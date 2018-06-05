@@ -13,7 +13,7 @@ namespace Classique.Controllers
 {
     public class EnregistrementsController : Controller
     {
-        private Classique_WebEntities1 db = new Classique_WebEntities1();
+        private Classique_Web_2017Entities db = new Classique_Web_2017Entities();
 
         // GET: Enregistrements
         public ActionResult Index(string searchString, string currentFilter, string sortOrder, int? page)
@@ -22,7 +22,7 @@ namespace Classique.Controllers
             ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewBag.DurationSortParm = String.IsNullOrEmpty(sortOrder) ? "duration_desc" : "";
 
-            var enregistrement = db.Enregistrement.Include(e => e.Composition);
+            var enregistrement = db.Enregistrement.Include(e => e.Composition_Disque);
 
             if (searchString != null)
             {
@@ -38,7 +38,7 @@ namespace Classique.Controllers
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                enregistrement = db.Enregistrement.Include(e => e.Composition).Where(c => c.Titre.StartsWith(searchString));
+                enregistrement = db.Enregistrement.Include(e => e.Composition_Disque).Where(c => c.Titre.StartsWith(searchString));
             }
 
             switch (sortOrder)
@@ -47,7 +47,7 @@ namespace Classique.Controllers
                     enregistrement = enregistrement.OrderByDescending(s => s.Nom_de_Fichier);
                     break;
                 case "duration_desc":
-                    enregistrement = enregistrement.OrderByDescending(s => s.Durée_Seconde);
+                    enregistrement = enregistrement.OrderByDescending(s => s.Duree_Seconde);
                     break;
                 default:
                     enregistrement = enregistrement.OrderBy(s => s.Nom_de_Fichier);

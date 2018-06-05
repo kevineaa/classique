@@ -15,7 +15,7 @@ namespace Classique.Controllers
     // Controller Class
     public class MusiciensController : Controller
     {
-        private Classique_WebEntities1 db = new Classique_WebEntities1();
+        private Classique_Web_2017Entities db = new Classique_Web_2017Entities();
 
         // GET: Musiciens
         public ActionResult Index(string searchString, string currentFilter, string sortOrder, int? page)
@@ -51,13 +51,13 @@ namespace Classique.Controllers
                     compositeurs = compositeurs.OrderByDescending(s => s.Nom_Musicien);
                     break;
                 case "firstname_desc":
-                    compositeurs = compositeurs.OrderByDescending(s => s.Prénom_Musicien);
+                    compositeurs = compositeurs.OrderByDescending(s => s.Prenom_Musicien);
                     break;
                 case "annee_naissance_desc":
-                    compositeurs = compositeurs.OrderByDescending(s => s.Année_Naissance);
+                    compositeurs = compositeurs.OrderByDescending(s => s.Annee_Naissance);
                     break;
                 case "annee_mort_desc":
-                    compositeurs = compositeurs.OrderByDescending(s => s.Année_Mort);
+                    compositeurs = compositeurs.OrderByDescending(s => s.Annee_Mort);
                     break;
                 default:
                     compositeurs = compositeurs.OrderBy(s => s.Nom_Musicien);

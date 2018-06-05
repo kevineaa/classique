@@ -45,10 +45,10 @@
             @Html.DisplayFor(modelItem => item.Titre)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Durée)
+            @Html.DisplayFor(modelItem => item.Duree)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Durée_Seconde)
+            @Html.DisplayFor(modelItem => item.Duree_Seconde)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Prix)
@@ -56,9 +56,9 @@
         <td>
             @Html.Music(item.Extrait)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Composition.Titre_Composition)
-        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Composition_Disque.Titre_Composition)
+        </td>*@
         <td>
             @Html.ActionLink("infos", "Details", new { id=item.Code_Morceau }) 
         </td>

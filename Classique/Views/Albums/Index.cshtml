@@ -52,7 +52,7 @@
                 @Html.DisplayFor(modelItem => item.Titre_Album)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Année_Album)
+                @Html.DisplayFor(modelItem => item.Annee_Album)
             </td>
             <td>
                 @Html.Image(item.Pochette)
@@ -64,7 +64,7 @@
                 @Html.DisplayFor(modelItem => item.Editeur.Nom_Editeur)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Genre.Libellé_Abrégé)
+                @Html.DisplayFor(modelItem => item.Genre.Libelle_Abrege)
             </td>
             <td>
                 @Html.ActionLink("infos", "Details", new { id=item.Code_Album }) 

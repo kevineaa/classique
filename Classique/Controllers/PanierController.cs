@@ -9,7 +9,7 @@ namespace Classique.Controllers
 {
     public class PanierController : Controller
     {
-        private Classique_WebEntities1 db = new Classique_WebEntities1();
+        private Classique_Web_2017Entities db = new Classique_Web_2017Entities();
         List<Item> panier;
 
         [Authorize]
