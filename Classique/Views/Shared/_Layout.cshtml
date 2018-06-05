@@ -23,10 +23,11 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("À propos", "About", "Home")</li>
-                    <li class="dropdown">
+                    <li>@Html.ActionLink("A propos", "About", "Home")</li>
+                    
+                    @*<li class="dropdown">
                         <a id="dLabel" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            Recherches
+                            Recherche
                             <span class="caret"></span>
                         </a>
                         <ul id="lien" class="dropdown-menu" aria-labelledby="dLabel">
@@ -34,7 +35,8 @@
                             <li>@Html.ActionLink("Albums", "Index", "Albums")</li>
                             <li>@Html.ActionLink("Enregistrements", "Index", "Enregistrements")</li>
                         </ul>
-                    </li>
+                    </li>*@
+                    <li>@Html.ActionLink("Recherche par critères", "Recherche", "Home")</li>
                     <li>
                         <a href="/Panier/Index"> <img src="~/images/panier.png" alt=""></a>
                     </li>

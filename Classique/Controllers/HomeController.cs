@@ -24,5 +24,11 @@ namespace Classique.Controllers
 
             return View();
         }
+
+        public ActionResult Recherche()
+        {
+
+            return View();
+        }
     }
 }

@@ -1,5 +1,6 @@
 ﻿body {
     padding-top: 50px;
+    margin-top: 50px;
 }
 
 
@@ -9,6 +10,7 @@
 }
 #header {
     text-align:center;
+    /*max-height:200px;*/
 }
 
 #body {

@@ -354,6 +354,7 @@
     <Content Include="Views\Enregistrements\Details.cshtml" />
     <Content Include="Views\Enregistrements\Index.cshtml" />
     <Content Include="Views\Panier\Index.cshtml" />
+    <Content Include="Views\Home\Recherche.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
