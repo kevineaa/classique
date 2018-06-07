@@ -142,6 +142,7 @@ namespace Classique.Controllers
 
         //
         // POST: /Account/Register
+        private static Classique_Web_2017Entities db = new Classique_Web_2017Entities();
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
@@ -153,10 +154,21 @@ namespace Classique.Controllers
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+                    await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
                     return RedirectToAction("Index", "Home");
+
+                    AddErrors(result);
+
+                    Abonne a = new Abonne();
+                    a.Nom_Abonne = model.Nom;
+
+                    a.Prenom_Abonne = model.Prenom;
+                    a.Login = model.UserName;
+                    a.Email = model.Email;
+                    a.Password = model.Password;
+                    db.Abonne.Add(a);
+                    db.SaveChanges();
                 }
-                AddErrors(result);
             }
 
             // En cas d'echec, la vue relance le frmulaire.

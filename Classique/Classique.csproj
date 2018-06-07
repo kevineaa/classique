@@ -167,6 +167,7 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\GenresController.cs" />
     <Compile Include="Models\Abonne.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -349,6 +350,8 @@
     <Content Include="Views\Enregistrements\Index.cshtml" />
     <Content Include="Views\Panier\Index.cshtml" />
     <Content Include="Views\Home\Recherche.cshtml" />
+    <Content Include="Views\Genres\Details.cshtml" />
+    <Content Include="Views\Genres\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

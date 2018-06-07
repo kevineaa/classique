@@ -65,8 +65,18 @@ namespace Classique.Models
     public class RegisterViewModel
     {
         [Required]
+        [Display(Name = "Nom")]
+        public string Nom { get; set; }
+
+        [Display(Name = "Prenom")]
+        public string Prenom { get; set; }
+
+        [Required]
+        [Display(Name = "Login")]
+        public string UserName { get; set; }
+        [Required]
         [EmailAddress]
-        [Display(Name = "Mail")]
+        [Display(Name = "Courrier électronique")]
         public string Email { get; set; }
 
         [Required]
@@ -76,7 +86,7 @@ namespace Classique.Models
         public string Password { get; set; }
 
         [DataType(DataType.Password)]
-        [Display(Name = "Confirmer le mot de passe ")]
+        [Display(Name = "Confirmer le mot de passe ")]
         [Compare("Password", ErrorMessage = "Le mot de passe et le mot de passe de confirmation ne correspondent pas.")]
         public string ConfirmPassword { get; set; }
     }
